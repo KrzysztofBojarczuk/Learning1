@@ -1,0 +1,10 @@
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojAssemblyReference.cache
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.cache
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.CoreCompileInputs.cache
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+F:\Projects\VisualStudio\Learning20\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
