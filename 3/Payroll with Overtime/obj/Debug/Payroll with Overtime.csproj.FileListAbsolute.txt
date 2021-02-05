@@ -1,0 +1,10 @@
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csprojAssemblyReference.cache
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+F:\Projects\VisualStudio\Learning20\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
