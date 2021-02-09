@@ -1,84 +1,49 @@
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace WindowsFormsApp17
+namespace ConsoleApp2
 {
-    public partial class Form1 : Form
+    class Program
     {
-        public Form1()
+        static void Main(string[] args)
         {
-            InitializeComponent();
-        }
+            Console.WriteLine("Podaj liczbe arabską:");
+            int x = int.Parse(Console.ReadLine());
 
-        private void convertButton_Click(object sender, EventArgs e)
-        {
-            int inputNumber;
-
-            if (int.TryParse(numberTextBox.Text, out inputNumber))
+            switch (x)
             {
-                if (inputNumber >= 1 && inputNumber <= 10)
-                {
-                    switch (inputNumber)
-                    {
-                        case 1:
-                            romanNumberLabel.Text = "I";
-                            break;
+                case 1:
+                    Console.WriteLine("Liczba rzymska to: I");
+                    break;
+                case 2:
+                    Console.WriteLine("Liczba rzymska to: II");
+                    break;
+                case 3:
+                    Console.WriteLine("Liczba rzymska to: III");
+                    break;
+                case 4:
+                    Console.WriteLine("Liczba rzymska to: IV");
+                    break;
+                case 5:
+                    Console.WriteLine("Liczba rzymska to: V");
+                    break;
+                case 6:
+                    Console.WriteLine("Liczba rzymska to: VI");
+                    break;
+                case 7:
+                    Console.WriteLine("Liczba rzymska to: VII");
+                    break;
+                case 8:
+                    Console.WriteLine("Liczba rzymska to: VIII");
+                    break;
+                case 9:
+                    Console.WriteLine("Liczba rzymska to: IX");
+                    break;
+                case 10:
+                    Console.WriteLine("Liczba rzymska to: X");
+                    break;
 
-                        case 2:
-                            romanNumberLabel.Text = "II";
-                            break;
-
-                        case 3:
-                            romanNumberLabel.Text = "III";
-                            break;
-
-                        case 4:
-                            romanNumberLabel.Text = "IV";
-                            break;
-
-                        case 5:
-                            romanNumberLabel.Text = "V";
-                            break;
-
-                        case 6:
-                            romanNumberLabel.Text = "IV";
-                            break;
-
-                        case 7:
-                            romanNumberLabel.Text = "VII";
-                            break;
-
-                        case 8:
-                            romanNumberLabel.Text = "VIII";
-                            break;
-
-                        case 9:
-                            romanNumberLabel.Text = "IX";
-                            break;
-
-                        case 10:
-                            romanNumberLabel.Text = "X";
-                            break;
-
-                    }
-                }
-                else
-                {
-                    MessageBox.Show("Podaj liczbe z przedziału od 1 do 10");
-                }
             }
-            else
-            {
-                MessageBox.Show("Wprowadź prawidłową liczbę całkowitą.");
-            }
-            numberTextBox.Focus();
         }
     }
 }
+
